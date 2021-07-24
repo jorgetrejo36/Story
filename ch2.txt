@@ -1,1 +1,2 @@
-THis is chapter 2!! More alien stuff everywhere.
+THis is chapter 2!! More alien stuff everywhere. This is me now
+Experimenting with the git messages in vim.
